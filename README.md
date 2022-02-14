@@ -1,7 +1,7 @@
 Server software list
 1. Install Ubuntu 18.04  apt update 到最新
 2. Install Nginx 或Ubuntu 自带   请自行G安装过程，并为nodejs 3000 端口配置
-3. Install Node&NMP ExpressJs PM2 框架 安装
+3. Install Node&NPM ExpressJs PM2 框架 安装
 4. Install Mysql Server 8 安装
 5. https://certbot.eff.org/  for HTTPS 安装
 6. Apply Domain name  for  HTTPS 申请
