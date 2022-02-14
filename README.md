@@ -1,11 +1,11 @@
 Server software list
-1. Ubuntu 18.04  apt update 到最新
-2. Nginx 或自带   参考安装过程，并为nodejs 3000 端口配置
-3. Node&NMP ExpressJs PM2 框架 安装
-4. Mysql Server 8 安装
+1. Install Ubuntu 18.04  apt update 到最新
+2. Install Nginx 或Ubuntu 自带   请自行G安装过程，并为nodejs 3000 端口配置
+3. Install Node&NMP ExpressJs PM2 框架 安装
+4. Install Mysql Server 8 安装
 5. https://certbot.eff.org/  for HTTPS 安装
-6. domain name  for  HTTPS 申请
-7. crontab for linux
+6. Apply Domain name  for  HTTPS 申请
+7. Install curl, crontab for linux
 8. crontab command : curl command :curl -X POST -H "Content-Type: application/json" -d @data.json http://139.155.80.163:3000/medicaljson  上传json文件
 
 9. format of json
